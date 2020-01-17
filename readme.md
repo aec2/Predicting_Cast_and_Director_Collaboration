@@ -30,6 +30,11 @@ In the project, you will see mainly 2 folders:
 	
 		You can see how to edit embeddings.
 
-@Mahsun_ALTIN [mail](mahsunaltin98@gmail.com)
-@Serkan_KIDIR [mail](serkan.kidir@agu.edu.tr)
-@Abdullah_Enes_CAN [mail](abdullahenes.can@agu.edu.tr)
+@Mahsun_ALTIN
+<a href="mahsunaltin98@gmail.com"> mahsunaltin98@gmail.com </a>
+
+@Serkan_KIDIR
+<a href="serkan.kidir@agu.edu.tr"> serkan.kidir@agu.edu.tr </a>
+
+@Abdullah_Enes_CAN
+<a href="abdullahenes.can@agu.edu.tr"> abdullahenes.can@agu.edu.tr </a>
